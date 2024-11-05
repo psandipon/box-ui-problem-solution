@@ -19,8 +19,10 @@
 
 ## Files (Starting Point)
 // Use this data to create the shape
+<pre>
 const BOX_DATA = [
   [1, 1, 1],
   [1, 0, 0],
   [1, 1, 1],
 ];
+</pre>
