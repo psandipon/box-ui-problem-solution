@@ -18,7 +18,6 @@
 - **Shape with Some Boxes Filled**: Placeholder showing partially filled shape based on user interaction.
 
 ## Files (Starting Point)
-// Use this data to create the shape
 <pre>
 const BOX_DATA = [
   [1, 1, 1],
